@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 
-public class Ex201 {
+public class LabSheet02 {
     public static void main(String[] args) {
         String code = "PB-001";
         String name = "Pencil Box";
